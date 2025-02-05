@@ -49,5 +49,9 @@
 </div>
 
 ###
+<div align="center">
+  <h3 align="center">contribution statistics:</h3>
+
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=karimataulctg)](https://git.io/streak-stats)
+</div>
 
