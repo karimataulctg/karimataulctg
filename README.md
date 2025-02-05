@@ -38,7 +38,7 @@
 
 ###
 
-<p align="center">Social Media:</p>
+<h3 align="center">Social Media:</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 <div align="center">
-  <h3 align="center">contribution statistics:</h3>
+  <h3 align="center">Contribution Statistics:</h3>
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=karimataulctg)](https://git.io/streak-stats)
 </div>
