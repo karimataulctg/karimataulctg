@@ -22,6 +22,8 @@
 
 <h2 align="left">I code with</h2>
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=karimataulctg)](https://git.io/streak-stats)
+
 ###
 
 <div align="center">
